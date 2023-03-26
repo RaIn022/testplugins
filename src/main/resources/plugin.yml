@@ -1,0 +1,4 @@
+name: testplugin
+version: '${version}'
+main: love.chihuyu.testplugin.Testplugin
+api-version: 1.19
